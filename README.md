@@ -11,6 +11,9 @@ This app is showcases a responsive social app menu.
 - [Resources & Tutorials](#resources&tutorials)
 - [License](#license)
 
+![social menu](https://user-images.githubusercontent.com/87839888/171551485-07df06fe-deef-4185-8f9e-41eecb3017c1.png)
+
+![app menu](https://user-images.githubusercontent.com/87839888/171551540-3f7fae77-062a-40c2-8c51-46db753175bd.png)
 
 ### GitHub & Deploy Link
 
@@ -40,6 +43,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
