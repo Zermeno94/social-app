@@ -5,28 +5,12 @@
 ## Description 💬
 This app is showcases a responsive social app menu. 
 
-## Table of Contents 🔎
- -[GitHub & Deploy Link](#githubdeploylink)
-- [Contributers](#contributers)
-- [Resources & Tutorials](#resources&tutorials)
-- [License](#license)
+[Online Demo](https://zermeno94.github.io/social-app/)
 
 ![social menu](https://user-images.githubusercontent.com/87839888/171551485-07df06fe-deef-4185-8f9e-41eecb3017c1.png)
 
 ![app menu](https://user-images.githubusercontent.com/87839888/171551540-3f7fae77-062a-40c2-8c51-46db753175bd.png)
 
-### GitHub & Deploy Link
-
-* [GitHub Link](https://github.com/Zermeno94/social-app)
-* [Heroku Link]( )
-
-## Contributers
-* Miranda Zermeno
-
-## Resources & Tutorials  💻
-
-* [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-* [https://react-bootstrap.github.io/](#https://react-bootstrap.github.io/)
 
 
 
