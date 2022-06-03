@@ -1,4 +1,4 @@
-# social-app ✨ 📱✨
+# Social App ✨ 📱✨
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) 
 
